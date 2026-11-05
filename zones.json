@@ -7894,5 +7894,17 @@
       "port"
     ],
     "featured": true
+  },
+  {
+    "id": 869,
+    "name": "IncrediBox",
+    "cover": "{COVER_URL}/869.png",
+    "url": "{HTML_URL}/869.html",
+    "author": "P diddy",
+    "authorLink": "https://joalor64.github.io/IncrediboxFlash/",
+    "special": [
+      "port"
+    ],
+    "featured": true
   }
 ]
